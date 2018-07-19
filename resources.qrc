@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/game/jackpots">
+        <file>jackpots/potA1.png</file>
+        <file>jackpots/potA2.png</file>
+        <file>jackpots/potB1.png</file>
+        <file>jackpots/potB2.png</file>
+        <file>jackpots/potC1.png</file>
+        <file>jackpots/potC2.png</file>
+        <file>jackpots/potD1.png</file>
+        <file>jackpots/potD2.png</file>
+        <file>jackpots/title.png</file>
+        <file>jackpots/potA3.png</file>
+        <file>jackpots/potB3.png</file>
+        <file>jackpots/potC3.png</file>
+        <file>jackpots/potD3.png</file>
+        <file>jackpots/coin.mp3</file>
+        <file>jackpots/winner.mp3</file>
+        <file>jackpots/woodBG.jpg</file>
+        <file>jackpots/woodBG2.jpg</file>
+        <file>jackpots/blue1.jpg</file>
+        <file>jackpots/socialMedia2.png</file>
+        <file>jackpots/socialMedia.png</file>
+        <file>jackpots/woodBG3.jpg</file>
+    </qresource>
+    <qresource prefix="/buttons/icons">
+        <file>icons/back.png</file>
+        <file>icons/buddies.png</file>
+        <file>icons/chat.png</file>
+        <file>icons/confirm.png</file>
+        <file>icons/create.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/download.png</file>
+        <file>icons/files.png</file>
+        <file>icons/group.png</file>
+        <file>icons/jackpot.png</file>
+        <file>icons/login.png</file>
+        <file>icons/logout.png</file>
+        <file>icons/new.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/search.png</file>
+        <file>icons/signup.png</file>
+        <file>icons/start.png</file>
+        <file>icons/upload.png</file>
+        <file>icons/share.png</file>
+        <file>icons/send.png</file>
+        <file>icons/join.png</file>
+    </qresource>
+</RCC>
